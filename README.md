@@ -3,8 +3,8 @@
 | ![Miku](https://github.com/user-attachments/assets/c4e31cf9-595d-4eee-b8c7-57e8a18437ee) |
 
 ⠀
-⠀##⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀:¨ ·.· ¨:
-⠀##⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ `· . Junior dev.
+⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀:¨ ·.· ¨:
+⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ `· . Junior dev.
 <!--
 **caramelin-n/caramelin-n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

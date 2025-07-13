@@ -1,5 +1,5 @@
 
-![download](https://github.com/user-attachments/assets/7a570862-199c-4a04-86ec-87f24352e131)
+![Miku](https://github.com/user-attachments/assets/2f301614-6620-42bd-a031-ec7f4adc0ad9)
 
 <!--
 **caramelin-n/caramelin-n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

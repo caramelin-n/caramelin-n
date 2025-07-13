@@ -1,6 +1,6 @@
 |       |
 |:-----:|
-| ![Miku](https://github.com/user-attachments/assets/c4e31cf9-595d-4eee-b8c7-57e8a18437ee) |
+| ![Miku](https://github.com/user-attachments/assets/3651c49d-bb4b-4d12-b073-fcbb8bfbf415) |
 
 ⠀<h1 align="center">
 ˶ᵔ ᵕ ᵔ˶ Junior dev.
